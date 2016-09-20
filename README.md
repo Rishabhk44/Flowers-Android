@@ -12,3 +12,5 @@ This app implements the below mentioned points
 * Creating layouts using View and View groups
 * Activity lifecycle
 * Git basics
+
+**Download APK**: https://github.com/Rishabhk44/Flowers-Android/blob/master/app-debug.apk
