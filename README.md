@@ -1,7 +1,7 @@
 # Flowers-Android
 
-![Flower List] (https://github.com/Rishabhk44/Flowers-Android/blob/master/Screenshot_1.png?raw=true)
-![Flower Details] (https://github.com/Rishabhk44/Flowers-Android/blob/master/Screenshot_2.png?raw=true)
+![Flower List] (https://raw.githubusercontent.com/Rishabhk44/Flowers-Android/56d249f376be5cfdfbab8862442aa140d5af3ac5/Screenshot_1.png)
+![Flower Details] (https://raw.githubusercontent.com/Rishabhk44/Flowers-Android/56d249f376be5cfdfbab8862442aa140d5af3ac5/Screenshot_2.png)
 
 This app implements the below mentioned points
 
